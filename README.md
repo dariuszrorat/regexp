@@ -1,4 +1,4 @@
-# Kohana regular expression wrapper
+# Kohana Regular Expression Wrapper
 
 ## Requirements
 
